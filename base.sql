@@ -15,7 +15,7 @@
 
 -- Volcando estructura de base de datos para jhonatanbarber
 CREATE DATABASE IF NOT EXISTS `jhonatanbarber` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci */;
-USE `jhonatanbarber`;
+USE `jhonatanbarber `;
 
 -- Volcando estructura para tabla jhonatanbarber.clientes
 CREATE TABLE IF NOT EXISTS `clientes` (
